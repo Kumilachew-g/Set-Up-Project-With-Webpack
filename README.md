@@ -1,13 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Personal-Portfolio
+# Set-Up-Project-With-Webpack
 
-This project is mainly about creating personal portfolio by HTML5 and CSS3.
-
-## Built With
-
-- Major languages: HTML5,CSS3
-- Technologies used: linters, Lighthouse, Webhint, Stylelint
+This Exercise is mainly about configuring webpack.
 
 ## Getting Started
 
@@ -34,8 +29,6 @@ To access a local copy up and runn follow these simple steps.
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/Kumilachew-g/Personal-Portfolio/issues).
 
 ## Show your support
 
